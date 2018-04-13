@@ -1,3 +1,4 @@
 [0m[[0minfo[0m] [0m[32mHelloSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mThe Hello object[0m[0m
-[0m[[0minfo[0m] [0m[32m- should say hello[0m[0m
+[0m[[0minfo[0m] [0m[32mThe crossover object[0m[0m
+[0m[[0minfo[0m] [0m[32m- should Return a list of strings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should swaps input at given index[0m[0m
